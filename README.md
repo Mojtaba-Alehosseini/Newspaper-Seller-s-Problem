@@ -1,5 +1,6 @@
 # Newspaper Seller's Problem
 + A System Modeling and Simulation for Newspaper Seller's Problem using VBA in Office Excel.
++ A Python code is uploaded too.
 + The paper seller buys the papers for 33 cents (u can change it) each and sells them for 50 cents each (u can change it too).
 + Newspapers not sold at the end of the day are sold as scrap for 5 cents each (u can change it too).
 + Newspapers can be purchased in bundles of 10. Thus, the paper seller can buy 50, 60, and so on.
